@@ -6,6 +6,7 @@
 [余弦](https://evilcos.me/)
 [离别歌 | phith0n](https://www.leavesongs.com/)
 [Nuclear;Atk（核攻击）网络安全实验室](https://lcx.cc/)
+[鬼仔’s Blog](http://huaidan.org/list)
 
 ## en
 [Krebs on Security](https://krebsonsecurity.com)
@@ -17,3 +18,10 @@
 [wooyun_articles](https://github.com/jiji262/wooyun_articles)[Demo](https://wooyun.js.org/)
 [wooyun_search](https://github.com/grt1st/wooyun_search)
 [乌云镜像网](http://www.anquan.us/)
+
+# CTF
+[VulnHub](https://www.vulnshub.com)
+
+# Wiki
+[Sec-wiki](https://www.sec-wiki.com)
+[Sec.Today](https://sec.today/pulses/)
