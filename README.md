@@ -20,8 +20,11 @@
 [乌云镜像网](http://www.anquan.us/)
 
 # CTF
-[VulnHub](https://www.vulnshub.com)
+[VulnHub](https://www.vulnshub.com)\n
 
 # Wiki
-[Sec-wiki](https://www.sec-wiki.com)
-[Sec.Today](https://sec.today/pulses/)
+[Sec-wiki](https://www.sec-wiki.com)\n
+[Sec.Today](https://sec.today/pulses/)\n
+
+# env
+[仿真靶场搭建：个人版PENTESTIT](https://www.freebuf.com/sectool/195632.html)\n
