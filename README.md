@@ -21,6 +21,13 @@
 
 # CTF
 [VulnHub](https://www.vulnshub.com)  
+[CTFtime](https://ctftime.org/)  
+
+# Bug Bounty
+[list-of-bug-bounty-programs](https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php)  
+[awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)  
+[https://github.com/ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) 
+
 
 # Wiki
 [Sec-wiki](https://www.sec-wiki.com)  
