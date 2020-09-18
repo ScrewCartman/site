@@ -1,3 +1,7 @@
+# vul
+## fundermental
+[vulnerabilities](https://owasp.org/www-community/vulnerabilities/) 
+[materials](https://portswigger.net/web-security/all-materials) 
 # blogs
 ## cn
 [Micropoor](https://micropoor.blogspot.com)[SecPulse](https://www.secpulse.com/archives/author/Micropoor)  
