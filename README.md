@@ -39,3 +39,7 @@
 
 # env
 [仿真靶场搭建：个人版PENTESTIT](https://www.freebuf.com/sectool/195632.html)  
+
+# labs
+[sqli-labs](https://github.com/Audi-1/sqli-labs) [mysql-injection.pdf](https://github.com/lcamry/sqli-labs/blob/master/mysql-injection.pdf)  
+[upload-labs](https://github.com/c0ny1/upload-labs)  
