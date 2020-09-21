@@ -11,6 +11,7 @@
 [离别歌 | phith0n](https://www.leavesongs.com/)  
 [Nuclear;Atk（核攻击）网络安全实验室](https://lcx.cc/)  
 [鬼仔’s Blog](http://huaidan.org/list)  
+[国光](https://www.sqlsec.com/)  
 
 ## en
 [Krebs on Security](https://krebsonsecurity.com)  
@@ -38,6 +39,7 @@
 [Sec.Today](https://sec.today/pulses/)  
 
 # env
+[pentester](https://pentesterlab.com/exercises/web_for_pentester/attachments) [tutorial](https://pentesterlab.com/exercises/web_for_pentester/course) [Web for Pentester 靶场学习记录](https://www.sqlsec.com/2020/05/pentesterlab.html)  
 [仿真靶场搭建：个人版PENTESTIT](https://www.freebuf.com/sectool/195632.html)  
 
 # labs
